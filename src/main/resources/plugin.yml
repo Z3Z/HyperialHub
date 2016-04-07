@@ -1,0 +1,11 @@
+name: HyperialHub
+version: 1.0
+main: net.HyperialHub.Main.Main
+author: Z3Z
+commands:
+  toggle:
+    description: Open the toggle menu to toggle things on and off!
+  pvp:
+    description: Open the pvp menu to disable or enable pvp!
+  parkour:
+    description: Join or leave the parkour!
